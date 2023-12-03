@@ -39,7 +39,7 @@ public class SecKillOrderServiceImpl implements SecKillOrderService {
     SecKillProductService secKillProductService;
 
     /**
-     * 根据订单号查询订单明细
+     * 根据订单号查询订单明细 测试提交
      * @param orderId
      * @return
      */
